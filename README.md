@@ -1,6 +1,7 @@
 # PowerBI-Blinkit-Dashboard
 -------------------------------------------------------------
-<img width="1433" alt="DashBoard Image" src="https://github.com/user-attachments/assets/418ec77e-a893-42b1-b3db-def9949b4667" />
+![blinkit_page-0001](https://github.com/user-attachments/assets/ae2276ae-599d-4f0b-aee4-8e30795956cb)
+
 
 
 This project involves creating interactive dashboards to analyze sales data over a decade. The dashboard focuses on dairy items, displaying key metrics like total sales, sales trends by year, fat content distribution, and location type. It provides a comprehensive overview of all item types, highlighting total sales, sales trends, item ranking by sales, and similar distribution metrics for fat content and location types. These dashboards facilitate data-driven decision-making by providing clear visual representations of sales performance and item distribution. The project aims to help stakeholders understand market trends and optimize inventory management.
